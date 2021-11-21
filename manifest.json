@@ -1,0 +1,7 @@
+{
+  "name": "Lummikn",
+  "short_name": "Lummikn",
+  "gcm_sender_id": "549881820644",
+  "display": "standalone",
+  "gcm_user_visible_only": true
+}
